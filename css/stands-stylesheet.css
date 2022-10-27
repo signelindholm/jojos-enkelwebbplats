@@ -1,0 +1,60 @@
+.container {
+  font-size:;
+  padding-bottom: 20px;
+}
+
+section {
+  background-color: #ffffff;
+  color: 	#707070;
+  font-weight: 800;
+}
+
+.stand-pictures {
+  border-radius: 10px;
+  float: left;
+
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-weight: 600;
+}
+
+.stands {
+  border-radius: 10px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/*ville döpa dem till feet och feetpics men det är bilderna i texten*/
+.feetpics {
+  float: left;
+  padding-right: 5px;
+}
+
+.feet {
+  float: right;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+button {
+  padding-top: 20px;
+  padding-left: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  color: #ffffff;
+  background-color: #ff4605;
+  border: none;
+  font-size: 20px;
+}

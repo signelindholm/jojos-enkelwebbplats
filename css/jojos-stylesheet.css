@@ -1,0 +1,84 @@
+html {
+  background-color: #eceef5;
+  font-family: helvetica;
+}
+
+
+/*för menyn*/
+.dropbtn {
+background-color: #ff4605;
+color: white;
+padding: 16px;
+font-size: 16px;
+border: none;
+border-radius: 10px;
+}
+
+.dropdown-content {
+background-color: #f1f1f1;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+color: #707070;
+text-decoration: none;
+}
+
+.dropdown-content a:hover {background-color: #ffc6c6;}
+
+.dropdown:hover .dropbtn {background-color: #ffacac;}
+/*för menyn*/
+
+.container {
+  border-radius: 10px;
+}
+
+section {
+background-color: #ffffff;
+color: 	#707070;
+font-weight: 800;
+letter-spacing: 1px;
+}
+
+h2 {
+font-size: 25px;
+}
+
+.info {
+border-radius: 10px;
+}
+
+/*info-list content*/
+.info-buttons {
+border-radius: 20px;
+background-color: #ddddff;
+border: none;
+font-size: 20px;
+color: #707070;
+}
+
+/*parts content*/
+.parts-buttons {
+border-radius: 20px;
+background-color: #faddff;
+border: none;
+font-size: 20px;
+color: #707070;
+}
+
+/*hover för info och parts knappar*/
+button:hover {
+  background-color: #ffc6c6;
+}
+
+.araki {
+  border: none;
+  background-color: #ffc6c6;
+  border-radius: 20px;
+  font-size: 16px;
+  color: #707070;
+}
+
+.hirohiko {
+  border-radius: 20px;
+}
